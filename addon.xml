@@ -43,8 +43,8 @@
 		<summary lang="th_TH">Created by BigNoid, Modded by SiLVO, and Widgets by Mr. V</summary>
 		<summary lang="tr_TR">BigNoid tarafından oluşturuldu; Modlar SILVO'dan, Widget'lar Mr. V'den.</summary>
 		<summary lang="vi_VN">Created by BigNoid, Modded by SiLVO, and Widgets by Mr. V - Sự trở về</summary>
-		<summary lang="zh_CN">Created by BigNoid, Modded by SiLVO, and Widgets by Mr. V</summary>
-		<summary lang="zh_TW">由BigNoid原創，SiLVO進行改造，以及由Mr. V製作的小工具</summary>
+		<summary lang="zh_CN">由 BigNoid 原创，SiLVO 进行改造，以及由 Mr. V 制作的小组件</summary>
+		<summary lang="zh_TW">由 BigNoid 原創，SiLVO 進行改造，以及由 Mr. V 製作的小组件</summary>
 		<description lang="af_ZA">Heeltemal oor ontwerp om 'n moderne aansig te skep, terwyl die klassieke Aeon gevoel behou word.</description>
 		<description lang="de_DE">Komplett neu designed für ein modernes Aussehen und das klassische Aeon-Feeling beizubehalten.</description>
 		<description lang="el_GR">Πλήρως επανασχεδιασμένο για να προσφέρει μια μοντέρνα αισθητική, διατηρώντας ταυτόχρονα την κλασική ομορφιά του Aeon.</description>
@@ -78,7 +78,8 @@
 		<description lang="th_TH">การออกแบบใหม่หมดจด เพื่อสร้างรูปลักษณ์ทันสมัย, ​​ขณะที่ยังคงความรู้สึกคลาสสิคของ Aeon.</description>
 		<description lang="tr_TR">Modern görünüme kavuşturmak için baştan tasarlandı, klasik Aeon hissi korundu</description>
 		<description lang="vi_VN">Thiết kế lại hoàn toàn để tạo nên một phong cách hiện đại, trong khi đó vẫn duy trì một cảm giác Aeon cổ điển.</description>
-		<description lang="zh_TW">完全的翻新設計以創造現代化的視覺感受，同時仍維持Aeon的經典外觀。</description>
+		<description lang="zh_CN">完全的翻新设计以创造现代化的视觉感受，同时仍维持 Aeon 的经典外观。</description>
+		<description lang="zh_TW">完全的翻新設計以創造現代化的視覺感受，同時仍維持 Aeon 的經典外觀。</description>
 		<platform>all</platform>
 		<license>CC BY-NC-SA 4.0</license>
 		<forum>https://forum.kodi.tv/showthread.php?tid=210069</forum>
