@@ -183,7 +183,7 @@ msgstr "正在播放"
 
 msgctxt "#31041"
 msgid "Select widget"
-msgstr "选择桌面小组件"
+msgstr "选择小组件"
 
 msgctxt "#31042"
 msgid "Show \"Now Playing\" information blended in the background"
